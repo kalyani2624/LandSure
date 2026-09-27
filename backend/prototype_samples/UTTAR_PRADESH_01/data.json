@@ -1,0 +1,93 @@
+{
+  "prototype_sample_id": "UTTAR_PRADESH_01",
+  "language": "Hindi",
+  "doc_type": "Sale Deed (विक्रय पत्र)",
+  "format_type": "PRINTED",
+  "confidence": 97.6,
+  "tokens": [
+    "उत्तर प्रदेश",
+    "विक्रय पत्र",
+    "रामकिशोर",
+    "यादव",
+    "गोरखपुर",
+    "AP 896512",
+    "89/2",
+    "275",
+    "धरमपुर"
+  ],
+  "staging": {
+    "owner_name": "Ramkishor Yadav",
+    "father_name": "Badri Prasad Yadav",
+    "survey_number": "89/2",
+    "khasra_number": "89/2",
+    "khata_number": "275",
+    "plot_number": "Plot 1",
+    "area": 0.86,
+    "area_unit": "Hectares",
+    "village": "Dharampur",
+    "tehsil_mandal": "Sahjanwa",
+    "district": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "land_classification": "Agricultural Irrigated (कृषि सिंचित)",
+    "ownership_type": "Pattadar / Khatedar",
+    "registration_number": "AP 896512",
+    "registration_date": "2024-04-12"
+  },
+  "regional_values": {
+    "owner_name": {
+      "value": "Ramkishor Yadav",
+      "original_value": "श्री रामकिशोर यादव",
+      "confidence": 98.5
+    },
+    "father_name": {
+      "value": "Badri Prasad Yadav",
+      "original_value": "श्री बद्री प्रसाद यादव",
+      "confidence": 98.0
+    },
+    "survey_number": {
+      "value": "89/2",
+      "original_value": "खसरा संख्या 89/2",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "value": "275",
+      "original_value": "खाता संख्या 275",
+      "confidence": 98.5
+    },
+    "area": {
+      "value": 0.86,
+      "original_value": "0.860 हेक्टेयर",
+      "confidence": 98.0
+    },
+    "area_unit": {
+      "value": "Hectares",
+      "original_value": "हेक्टेयर",
+      "confidence": 99.0
+    },
+    "village": {
+      "value": "Dharampur",
+      "original_value": "धरमपुर",
+      "confidence": 98.0
+    },
+    "tehsil_mandal": {
+      "value": "Sahjanwa",
+      "original_value": "सहजनवा",
+      "confidence": 98.5
+    },
+    "district": {
+      "value": "Gorakhpur",
+      "original_value": "गोरखपुर",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "value": "AP 896512",
+      "original_value": "AP 896512",
+      "confidence": 99.5
+    },
+    "registration_date": {
+      "value": "2024-04-12",
+      "original_value": "12-04-2024",
+      "confidence": 99.0
+    }
+  }
+}

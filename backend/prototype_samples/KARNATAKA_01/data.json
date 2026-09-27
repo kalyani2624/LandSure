@@ -1,0 +1,88 @@
+{
+  "prototype_sample_id": "KARNATAKA_01",
+  "language": "Kannada",
+  "doc_type": "Sale Deed (ಮಾರಾಟ ಪತ್ರ)",
+  "format_type": "PRINTED",
+  "confidence": 97.1,
+  "tokens": [
+    "ಕರ್ನಾಟಕ",
+    "ಮಾರಾಟ",
+    "ಹೆಗಡೆ",
+    "ರವೀಂದ್ರ",
+    "ಬೆಂಗಳೂರು",
+    "KA 684512",
+    "123/4",
+    "4567",
+    "ಜಯನಗರ"
+  ],
+  "staging": {
+    "owner_name": "Ravindra Hegde",
+    "father_name": "Hegde",
+    "survey_number": "123/4",
+    "khasra_number": "Site 123/4",
+    "khata_number": "4567",
+    "plot_number": "Site 123/4",
+    "area": 2400.0,
+    "area_unit": "Sq. Feet",
+    "village": "Jayanagar",
+    "tehsil_mandal": "Bengaluru South",
+    "district": "Bengaluru",
+    "state": "Karnataka",
+    "land_classification": "Residential / Urban Property",
+    "ownership_type": "Sole Owner / Self-owned",
+    "registration_number": "KA 684512",
+    "registration_date": "2024-04-20"
+  },
+  "regional_values": {
+    "owner_name": {
+      "value": "Ravindra Hegde",
+      "original_value": "ಶ್ರೀ ರವೀಂದ್ರ ಹೆಗಡೆ",
+      "confidence": 98.2
+    },
+    "survey_number": {
+      "value": "123/4",
+      "original_value": "ಸೈಟ್ ನಂ. 123/4",
+      "confidence": 98.5
+    },
+    "khata_number": {
+      "value": "4567",
+      "original_value": "ಖಾತೆ ನಂ. 4567",
+      "confidence": 99.0
+    },
+    "area": {
+      "value": 2400.0,
+      "original_value": "2400 ಚದರ ಅಡಿ",
+      "confidence": 97.5
+    },
+    "area_unit": {
+      "value": "Sq. Feet",
+      "original_value": "ಚದರ ಅಡಿ",
+      "confidence": 98.5
+    },
+    "village": {
+      "value": "Jayanagar",
+      "original_value": "ಜಯನಗರ 3ನೇ ಹಂತ",
+      "confidence": 97.0
+    },
+    "tehsil_mandal": {
+      "value": "Bengaluru South",
+      "original_value": "ಬೆಂಗಳೂರು ದಕ್ಷಿಣ",
+      "confidence": 98.0
+    },
+    "district": {
+      "value": "Bengaluru",
+      "original_value": "ಬೆಂಗಳೂರು",
+      "confidence": 98.5
+    },
+    "registration_number": {
+      "value": "KA 684512",
+      "original_value": "KA 684512",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "value": "2024-04-20",
+      "original_value": "20-04-2024",
+      "confidence": 98.5
+    }
+  }
+}

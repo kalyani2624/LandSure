@@ -1,0 +1,30 @@
+[
+  {
+    "engine": "RapidOCR (ONNX Neural)",
+    "supported_languages": "English, Telugu, Hindi, Tamil, Kannada, Marathi, Bengali, Gujarati, Odia, Punjabi",
+    "docs_tested": 8,
+    "avg_latency_ms": 3324.0,
+    "avg_confidence": 92.8,
+    "total_bboxes_extracted": 197,
+    "memory_rss_mb": 201.1,
+    "memory_delta_mb": 10.1,
+    "vram_mb": 0.0,
+    "printed_capability": "HIGH (Full 2D Bounding Boxes + Line Segmentation)",
+    "handwritten_capability": "LOW/MODERATE (Struggles on low-contrast cursive; routes to VLM)",
+    "execution_mode": "CPU/GPU ONNX"
+  },
+  {
+    "engine": "Tesseract (System Wrapper)",
+    "supported_languages": "English, Telugu, Hindi, Tamil, Kannada, Marathi, Bengali, Gujarati, Odia, Punjabi",
+    "docs_tested": 0,
+    "avg_latency_ms": 0.0,
+    "avg_confidence": 0.0,
+    "total_bboxes_extracted": 0,
+    "memory_rss_mb": 201.2,
+    "memory_delta_mb": 0.2,
+    "vram_mb": 0.0,
+    "printed_capability": "HIGH (Full 2D Bounding Boxes + Line Segmentation)",
+    "handwritten_capability": "LOW/MODERATE (Struggles on low-contrast cursive; routes to VLM)",
+    "execution_mode": "CPU/GPU ONNX"
+  }
+]

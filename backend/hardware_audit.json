@@ -1,0 +1,21 @@
+{
+  "os": "Windows 10 (Build 10.0.26200)",
+  "python": "3.11.9",
+  "architecture": "AMD64",
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "cpu_cores_logical": 12,
+  "disk_total_gb": 475.67,
+  "disk_available_gb": 22.52,
+  "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_vram_total_mb": 4096.0,
+  "gpu_vram_free_mb": 3965.0,
+  "nvidia_driver": "591.74",
+  "onnxruntime_version": "1.29.0",
+  "onnxruntime_providers": [
+    "AzureExecutionProvider",
+    "CPUExecutionProvider"
+  ],
+  "pytorch": "PyTorch not installed in environment (No module named 'torch')",
+  "ollama": "Ollama not installed or not running on port 11434",
+  "docker": "Docker CLI not installed in Windows PATH"
+}

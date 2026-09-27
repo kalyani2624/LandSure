@@ -1,0 +1,130 @@
+[
+  {
+    "original_file": "area_mismatch_sample.png",
+    "format_type": "PRINTED",
+    "confidence": 95.2,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 0.291,
+      "height_cv": 1.222,
+      "solidity_std": 0.192,
+      "line_transitions": 22,
+      "ocr_confidence_mean": 98.7,
+      "ocr_confidence_std": 1.5
+    }
+  },
+  {
+    "original_file": "conflict_owner_sample.png",
+    "format_type": "PRINTED",
+    "confidence": 98.0,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 0.276,
+      "height_cv": 1.053,
+      "solidity_std": 0.179,
+      "line_transitions": 30,
+      "ocr_confidence_mean": 98.0,
+      "ocr_confidence_std": 2.0
+    }
+  },
+  {
+    "original_file": "english_survey_sample.png",
+    "format_type": "PRINTED",
+    "confidence": 98.0,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 0.237,
+      "height_cv": 1.094,
+      "solidity_std": 0.18,
+      "line_transitions": 29,
+      "ocr_confidence_mean": 98.0,
+      "ocr_confidence_std": 2.1
+    }
+  },
+  {
+    "original_file": "hindi_khasra_sample.png",
+    "format_type": "PRINTED",
+    "confidence": 94.6,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 1.063,
+      "height_cv": 0.823,
+      "solidity_std": 0.112,
+      "line_transitions": 26,
+      "ocr_confidence_mean": 84.7,
+      "ocr_confidence_std": 15.5
+    }
+  },
+  {
+    "original_file": "mutation_record_sample.png",
+    "format_type": "PRINTED",
+    "confidence": 95.2,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 0.283,
+      "height_cv": 1.05,
+      "solidity_std": 0.191,
+      "line_transitions": 31,
+      "ocr_confidence_mean": 98.2,
+      "ocr_confidence_std": 2.5
+    }
+  },
+  {
+    "original_file": "tamil_patta_sample.jpg",
+    "format_type": "PRINTED",
+    "confidence": 98.0,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 1.338,
+      "height_cv": 0.902,
+      "solidity_std": 0.102,
+      "line_transitions": 24,
+      "ocr_confidence_mean": 84.9,
+      "ocr_confidence_std": 14.0
+    }
+  },
+  {
+    "original_file": "telugu_adangal_sample.jpg",
+    "format_type": "PRINTED",
+    "confidence": 98.0,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 1.292,
+      "height_cv": 0.825,
+      "solidity_std": 0.117,
+      "line_transitions": 25,
+      "ocr_confidence_mean": 83.6,
+      "ocr_confidence_std": 13.8
+    }
+  },
+  {
+    "original_file": "Telugu_Handwritten_Register.png",
+    "format_type": "PRINTED",
+    "confidence": 95.2,
+    "needs_human_review": false,
+    "method": "morphological_stroke_and_projection_analysis",
+    "filename_invariant": true,
+    "metrics": {
+      "aspect_ratio_std": 0.559,
+      "height_cv": 1.174,
+      "solidity_std": 0.193,
+      "line_transitions": 24,
+      "ocr_confidence_mean": 96.3,
+      "ocr_confidence_std": 7.5
+    }
+  }
+]

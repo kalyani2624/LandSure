@@ -1,0 +1,93 @@
+{
+  "prototype_sample_id": "GUJARAT_01",
+  "language": "Gujarati",
+  "doc_type": "Title Deed (સમજૂતી લેખપત્ર)",
+  "format_type": "PRINTED",
+  "confidence": 96.5,
+  "tokens": [
+    "ગુજરાત",
+    "લેખપત્ર",
+    "પટેલ",
+    "દેવાંશ",
+    "સુરત",
+    "GJ 398765",
+    "123/4",
+    "કામરેજ",
+    "અઠવા"
+  ],
+  "staging": {
+    "owner_name": "Devansh Kanubhai Patel",
+    "father_name": "Kanubhai Patel",
+    "survey_number": "123/4",
+    "khasra_number": "123/4",
+    "khata_number": "GJ-398",
+    "plot_number": "45",
+    "area": 120.0,
+    "area_unit": "Sq. Meters",
+    "village": "Athwa",
+    "tehsil_mandal": "Kamrej",
+    "district": "Surat",
+    "state": "Gujarat",
+    "land_classification": "Residential / Non-Agricultural",
+    "ownership_type": "Pattadar / Self-owned",
+    "registration_number": "GJ 398765",
+    "registration_date": "2024-01-05"
+  },
+  "regional_values": {
+    "owner_name": {
+      "value": "Devansh Kanubhai Patel",
+      "original_value": "શ્રી દેવાંશ કનુભાઈ પટેલ",
+      "confidence": 97.2
+    },
+    "father_name": {
+      "value": "Kanubhai Patel",
+      "original_value": "કનુભાઈ પટેલ",
+      "confidence": 96.0
+    },
+    "survey_number": {
+      "value": "123/4",
+      "original_value": "સર્વે નં. 123/4",
+      "confidence": 98.5
+    },
+    "plot_number": {
+      "value": "45",
+      "original_value": "પ્లోટ નં. 45",
+      "confidence": 98.0
+    },
+    "area": {
+      "value": 120.0,
+      "original_value": "120 ચો. મીટર",
+      "confidence": 96.8
+    },
+    "area_unit": {
+      "value": "Sq. Meters",
+      "original_value": "ચો. મીટર",
+      "confidence": 98.0
+    },
+    "village": {
+      "value": "Athwa",
+      "original_value": "અઠવા",
+      "confidence": 97.5
+    },
+    "tehsil_mandal": {
+      "value": "Kamrej",
+      "original_value": "કામરેજ",
+      "confidence": 97.0
+    },
+    "district": {
+      "value": "Surat",
+      "original_value": "સુરત",
+      "confidence": 98.0
+    },
+    "registration_number": {
+      "value": "GJ 398765",
+      "original_value": "GJ 398765",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "value": "2024-01-05",
+      "original_value": "05-01-2024",
+      "confidence": 98.5
+    }
+  }
+}

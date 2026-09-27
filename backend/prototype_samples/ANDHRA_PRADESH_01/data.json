@@ -1,0 +1,93 @@
+{
+  "prototype_sample_id": "ANDHRA_PRADESH_01",
+  "language": "Telugu",
+  "doc_type": "Sale Deed (అమ్మకపు దస్తావేజు)",
+  "format_type": "PRINTED",
+  "confidence": 97.4,
+  "tokens": [
+    "ఆంధ్రప్రదేశ్",
+    "అమ్మకపు",
+    "ముత్యాల",
+    "నరసింహులు",
+    "ఏలూరు",
+    "DU 478965",
+    "224/2B",
+    "578",
+    "వెలగపూడి"
+  ],
+  "staging": {
+    "owner_name": "Mutyala Narasimhulu",
+    "father_name": "Mutyala Subbarayudu",
+    "survey_number": "224/2B",
+    "khasra_number": "224/2B",
+    "khata_number": "578",
+    "plot_number": "Plot 2",
+    "area": 3.15,
+    "area_unit": "Acres",
+    "village": "Velagapudi",
+    "tehsil_mandal": "Eluru",
+    "district": "West Godavari",
+    "state": "Andhra Pradesh",
+    "land_classification": "Agricultural Land (వ్యవసాయ భూమి)",
+    "ownership_type": "Pattadar / Sole Owner",
+    "registration_number": "DU 478965",
+    "registration_date": "2023-07-18"
+  },
+  "regional_values": {
+    "owner_name": {
+      "value": "Mutyala Narasimhulu",
+      "original_value": "శ్రీ ముత్యాల నరసింహులు",
+      "confidence": 98.5
+    },
+    "father_name": {
+      "value": "Mutyala Subbarayudu",
+      "original_value": "శ్రీ ముత్యాల సుబ్బారాయుడు",
+      "confidence": 97.5
+    },
+    "survey_number": {
+      "value": "224/2B",
+      "original_value": "సర్వే నం. 224/2B",
+      "confidence": 99.0
+    },
+    "khata_number": {
+      "value": "578",
+      "original_value": "ఖాతా నం. 578",
+      "confidence": 98.5
+    },
+    "area": {
+      "value": 3.15,
+      "original_value": "3.15 ఎకరాలు (మూడు ఎకరాలు పదిహేను సెంట్లు)",
+      "confidence": 98.0
+    },
+    "area_unit": {
+      "value": "Acres",
+      "original_value": "ఎకరాలు",
+      "confidence": 99.0
+    },
+    "village": {
+      "value": "Velagapudi",
+      "original_value": "వెలగపూడి",
+      "confidence": 98.0
+    },
+    "tehsil_mandal": {
+      "value": "Eluru",
+      "original_value": "ఏలూరు",
+      "confidence": 98.5
+    },
+    "district": {
+      "value": "West Godavari",
+      "original_value": "పశ్చిమ గోదావరి",
+      "confidence": 99.0
+    },
+    "registration_number": {
+      "value": "DU 478965",
+      "original_value": "DU 478965",
+      "confidence": 99.5
+    },
+    "registration_date": {
+      "value": "2023-07-18",
+      "original_value": "18-07-2023",
+      "confidence": 98.5
+    }
+  }
+}

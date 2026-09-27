@@ -1,0 +1,49 @@
+# Node / Frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.cache/
+*.local
+
+# Python / Backend
+backend/__pycache__/
+backend/scratch/
+__pycache__/
+*.py[cod]
+*.class
+backend/.pytest_cache/
+.pytest_cache/
+*.egg-info/
+.eggs/
+backend/htmlcov/
+.coverage
+.coverage.*
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Database & Dynamic uploads
+*.db
+*.sqlite3
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/preprocessed/*
+!backend/preprocessed/.gitkeep
+
+# Environment variables
+.env
+.env.*
+backend/.env
+backend/.env.*
+
+# IDE / OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.log

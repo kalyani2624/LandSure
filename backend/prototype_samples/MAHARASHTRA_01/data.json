@@ -1,0 +1,88 @@
+{
+  "prototype_sample_id": "MAHARASHTRA_01",
+  "language": "Marathi",
+  "doc_type": "Sale Deed (विक्रीपत्र)",
+  "format_type": "PRINTED",
+  "confidence": 96.8,
+  "tokens": [
+    "महाराष्ट्र",
+    "विक्रीपत्र",
+    "देशमुख",
+    "अमोल",
+    "सातारा",
+    "MA 812345",
+    "123",
+    "कराड",
+    "तळमावले"
+  ],
+  "staging": {
+    "owner_name": "Amol Ashok Deshmukh",
+    "father_name": "Ashok Deshmukh",
+    "survey_number": "123",
+    "khasra_number": "Gat 123",
+    "khata_number": "MH-812",
+    "plot_number": "101",
+    "area": 1000.0,
+    "area_unit": "Sq. Meters",
+    "village": "Talmavale",
+    "tehsil_mandal": "Karad",
+    "district": "Satara",
+    "state": "Maharashtra",
+    "land_classification": "Agricultural / Non-Agricultural Land",
+    "ownership_type": "Pattadar / Sole Owner",
+    "registration_number": "MA 812345",
+    "registration_date": "2024-06-01"
+  },
+  "regional_values": {
+    "owner_name": {
+      "value": "Amol Ashok Deshmukh",
+      "original_value": "श्री. अमोल अशोक देशमुख",
+      "confidence": 98.0
+    },
+    "father_name": {
+      "value": "Ashok Deshmukh",
+      "original_value": "अशोक देशमुख",
+      "confidence": 96.5
+    },
+    "survey_number": {
+      "value": "123",
+      "original_value": "गट नं. 123",
+      "confidence": 98.5
+    },
+    "area": {
+      "value": 1000.0,
+      "original_value": "1000 चौ.मी.",
+      "confidence": 97.0
+    },
+    "area_unit": {
+      "value": "Sq. Meters",
+      "original_value": "चौ.मी.",
+      "confidence": 98.0
+    },
+    "village": {
+      "value": "Talmavale",
+      "original_value": "तळमावले",
+      "confidence": 97.5
+    },
+    "tehsil_mandal": {
+      "value": "Karad",
+      "original_value": "कराड",
+      "confidence": 98.0
+    },
+    "district": {
+      "value": "Satara",
+      "original_value": "सातारा",
+      "confidence": 98.5
+    },
+    "registration_number": {
+      "value": "MA 812345",
+      "original_value": "MA 812345",
+      "confidence": 99.0
+    },
+    "registration_date": {
+      "value": "2024-06-01",
+      "original_value": "01-06-2024",
+      "confidence": 98.5
+    }
+  }
+}

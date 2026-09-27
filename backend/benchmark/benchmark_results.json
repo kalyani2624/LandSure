@@ -1,0 +1,88 @@
+{
+  "documents": [
+    {
+      "document": "english_survey_sample.png",
+      "language": "English",
+      "format_detected": "PRINTED",
+      "format_confidence": 98.0,
+      "ocr_cer_pct": 37.07,
+      "ocr_wer_pct": 100.0,
+      "field_precision_pct": 100.0,
+      "field_recall_pct": 92.3,
+      "field_f1_pct": 96.0,
+      "document_confidence": 92.6,
+      "latency_ms": 3467.0,
+      "memory_mb": 170.5,
+      "human_review_required": false
+    },
+    {
+      "document": "telugu_adangal_sample.jpg",
+      "language": "Telugu",
+      "format_detected": "PRINTED",
+      "format_confidence": 98.0,
+      "ocr_cer_pct": 100.0,
+      "ocr_wer_pct": 100.0,
+      "field_precision_pct": 100.0,
+      "field_recall_pct": 90.0,
+      "field_f1_pct": 94.7,
+      "document_confidence": 81.5,
+      "latency_ms": 3163.0,
+      "memory_mb": 172.8,
+      "human_review_required": false
+    },
+    {
+      "document": "hindi_khasra_sample.png",
+      "language": "Hindi",
+      "format_detected": "PRINTED",
+      "format_confidence": 94.6,
+      "ocr_cer_pct": 100.0,
+      "ocr_wer_pct": 100.0,
+      "field_precision_pct": 100.0,
+      "field_recall_pct": 88.9,
+      "field_f1_pct": 94.1,
+      "document_confidence": 84.1,
+      "latency_ms": 3893.8,
+      "memory_mb": 172.8,
+      "human_review_required": false
+    },
+    {
+      "document": "tamil_patta_sample.jpg",
+      "language": "Tamil",
+      "format_detected": "PRINTED",
+      "format_confidence": 98.0,
+      "ocr_cer_pct": 91.42,
+      "ocr_wer_pct": 100.0,
+      "field_precision_pct": 100.0,
+      "field_recall_pct": 90.0,
+      "field_f1_pct": 94.7,
+      "document_confidence": 84.2,
+      "latency_ms": 4212.3,
+      "memory_mb": 172.8,
+      "human_review_required": false
+    }
+  ],
+  "aggregate": {
+    "total_documents": 4,
+    "average_cer": 82.12,
+    "average_wer": 100.0,
+    "field_precision": 100.0,
+    "field_recall": 90.5,
+    "field_f1": 95.0,
+    "exact_match_rate": 90.5,
+    "average_latency_ms": 3684.0,
+    "human_review_rate": 0.0
+  },
+  "language_matrix": {
+    "English": "TESTED",
+    "Telugu": "TESTED",
+    "Hindi": "TESTED",
+    "Tamil": "TESTED",
+    "Kannada": "NOT TESTED",
+    "Malayalam": "NOT TESTED",
+    "Marathi": "NOT TESTED",
+    "Bengali": "NOT TESTED",
+    "Gujarati": "NOT TESTED",
+    "Odia": "NOT TESTED",
+    "Punjabi": "NOT TESTED"
+  }
+}
